@@ -6,7 +6,19 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: c5b796383675ac141ac7d492b536c1d8
+  - enabled: 1
+    path: Assets/Scenes/DemoScene.unity
+    guid: 75ef0d4b1de37614488b333e03c01efe
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: cbb7b13c8653aa545a241452af71003b
+  - enabled: 1
     path: Assets/LoopRoom/LoopRoom.unity
+    guid: 7fe9758f18209d141984df4e46ac78cf
+  - enabled: 1
+    path: Assets/Scenes/LoopRoom.unity
     guid: b536ea5cced6ae24fa12a634ede6610c
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
