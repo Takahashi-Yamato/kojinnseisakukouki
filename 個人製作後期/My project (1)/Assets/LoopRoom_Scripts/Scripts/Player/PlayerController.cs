@@ -15,6 +15,7 @@ public class PlayerController : MonoBehaviour
     [SerializeField] float pitchLimit = 80f;
 
     public bool CanControl { get; set; } = true;
+    public float MouseSensitivity { get => mouseSensitivity; set => mouseSensitivity = value; }
 
     CharacterController cc;
     float pitch;
